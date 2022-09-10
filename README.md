@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ```
 
-substitute the pdfpath and wordpath in the main part and run the notebook替换主要部分中的 pdf 路径和单词路径，然后运行笔记本
+substitute the pdfpath and wordpath in the main part and run the notebook替换Main中的 pdf 路径和单词路径，然后运行笔记本
 
 ```python
 pdfpath=r'test.pdf'
