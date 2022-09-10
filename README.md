@@ -2,7 +2,7 @@
 
  make index of a pdf from designated wordlist从指定的单词列表制作PDF的索引
 
-## example of final index list示例
+## example示例
 [wordlist](words.txt)
 
 [pdf](test.pdf)
