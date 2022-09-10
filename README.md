@@ -3,7 +3,8 @@
  make index of a pdf from designated wordlist从指定的单词列表制作PDF的索引
 
 ## example of final index list示例
-
+[wordlist](words.txt)
+[pdf](test.pdf)
 [example](words_index.txt)
 
 the order of  words in index is the same as those in wordlist.索引中的单词顺序与单词列表中的顺序相同。
