@@ -15,7 +15,7 @@ the order of  words in index is the same as those in wordlist.索引中的单词
 
 Install Dependencies安装依赖项
 
-pdfpluber
+pdfplumber
 
 tqdm
 
